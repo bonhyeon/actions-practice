@@ -2,8 +2,7 @@
 
 def add(a: int, b: int) -> int:
     """두 수의 합을 반환합니다."""
-    # TODO: return a + b 로 구현하세요
-    pass
+    return a - b;
 
 
 def is_even(n: int) -> bool:
